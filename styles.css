@@ -84,6 +84,7 @@ nav ul {
 }
 
 .sidebar li:first-child a {
+    height: 70px;
     background-color: #001f3f;
     justify-content: flex-end;
 }
